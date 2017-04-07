@@ -2,4 +2,5 @@
 Udacity nd101 projects
 
 Quickstart-
-jupyter notebook "DLND Your first neural network.ipynb"
+
+`jupyter notebook "DLND Your first neural network.ipynb"`
